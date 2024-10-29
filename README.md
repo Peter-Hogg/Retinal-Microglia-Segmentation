@@ -18,6 +18,11 @@ This project provides a workflow for segmenting retinal microglia in Alzheimer's
    ```bash
    pip install -r requirements.txt
 
+3. Retrieve the trained model from OSF.
+   ```bash
+   https://osf.io/euspt/?view_only=755c79f38ad245908d3aa8b5620c4863
+
+4. Update paths locally in the notebooks.
 
 ## Usage
 
