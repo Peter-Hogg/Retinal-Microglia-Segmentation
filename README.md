@@ -21,8 +21,8 @@ This project provides a workflow for segmenting retinal microglia in Alzheimer's
 
 ## Usage
 
-    Follow instructions in Microglia_Ilastik_Segmentation.ipynb to segment retinal microglia.
-    Run QC_Notebook.ipynb to check segmentation quality and validate results.
+ Follow instructions in Microglia_Ilastik_Segmentation.ipynb to segment retinal microglia.
+ Run QC_Notebook.ipynb to check segmentation quality and validate results.
 
 ## Results
 
